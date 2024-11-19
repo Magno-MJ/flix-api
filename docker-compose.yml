@@ -1,0 +1,11 @@
+services:
+  backend:
+    image: flix-api
+    container_name: flix-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    ports:
+      - 8000:8000
