@@ -2,7 +2,7 @@
 
 ## 📔 Description
 
-API to manage movies, movie genres and movie reviews made during the course Django Master
+API to manage movies, movie genres and movie reviews made during the course Django Master with Django Rest Framework
 
 ## 🚀 How to run the project
 
